@@ -1,2 +1,2 @@
-a # Vandana, my portfolio.
+# Vandana, my portfolio.
 commit
