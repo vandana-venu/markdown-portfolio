@@ -1,4 +1,4 @@
--Emoji
--Ordered Lists
--Unordered Lists
--Gtech Mulearn
+- Emoji
+- Ordered Lists
+- Unordered Lists
+- Gtech Mulearn
